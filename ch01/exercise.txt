@@ -1,0 +1,53 @@
+1)
+:set +t
+
+5 + 8
+it :: Integer
+
+3 * 5 + 8
+it :: Integer
+
+2 + 4
+it :: Integer
+
+(+) 2 4
+it :: Integer
+
+sqrt 16
+it :: Double
+
+succ 6
+it :: Integer
+
+succ 7
+it :: Integer
+
+pred 9
+it :: Integer
+
+pred 8
+it :: Integer
+
+sin (pi / 2)
+it :: Double
+
+truncate pi
+it :: Integer
+
+round 3.5
+it :: Integer
+
+floor 3.7
+it :: Integer
+
+ceiling 3.3
+it :: Integer
+
+2)
+Prelude> let x = 1
+Prelude> :show bindings
+x :: Integer = _
+
+
+
+
