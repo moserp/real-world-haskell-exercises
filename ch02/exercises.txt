@@ -1,0 +1,12 @@
+Q1 - page 25
+
+False
+ is type Bool
+
+(["foo", "bar"], 'a')
+ is type ([[Char]], Char)
+
+[(True, []), (False, [['a']])]
+ is type [(Bool, [[Char]])]
+
+
