@@ -9,4 +9,7 @@ False
 [(True, []), (False, [['a']])]
  is type [(Bool, [[Char]])]
 
+Q1 - page 39
+Return a value from the list
+
 
